@@ -1,0 +1,500 @@
+﻿Mode,NLC,ASC,Station,Coverage,Source,Mon-Thu Entries,Fri Entries,Sat Entries,Sun Entries,Mon-Thu Exits,Fri Exits,Sat Exits,Sun Exits,En/Ex
+LU,500,ACTu,Acton Town,Station entry / exit,Gateline,6851,6899,5657,3961,6886,6691,5559,4174,2902697
+LU,502,ALDu,Aldgate,Station entry / exit,Gateline,8038,6690,5035,3585,9655,8611,7453,4595,3525128
+LU,503,ALEu,Aldgate East,Station entry / exit,Gateline,12751,13270,13617,9980,11984,12882,12951,8261,5611130
+LU,505,ALPu,Alperton,Station entry / exit,Gateline,3109,3121,2543,1654,3347,3325,2537,1732,1345253
+LU,506,AMEu,Amersham,Station entry / exit,Gateline,2384,2249,1745,1089,2315,2175,1545,1063,946577
+LU,507,ANGu,Angel,Station entry / exit,Gateline,16234,17601,14286,9694,17205,19337,15229,9890,7258744
+LU,508,ARCu,Archway,Station entry / exit,Gateline,9878,10130,8148,5549,9318,9051,7017,5273,4027456
+LU,509,AGRu,Arnos Grove,Station entry / exit,Gateline,4686,4832,4257,3067,4347,4373,3835,2955,1963343
+LU,510,ARLu,Arsenal,Station entry / exit,Gateline,2847,3151,2911,2050,2521,2540,2454,2036,1209093
+LU,511,BSTu,Baker Street,Station entry / exit,Gateline,26481,26299,20714,14374,26852,27029,21177,14622,11147642
+LU,512,BALu,Balham LU,Station entry / exit,Gateline,11980,12553,12223,7520,12598,12105,11728,7755,5356512
+LU,513,BNKu,Bank and Monument,Station entry / exit,Gateline,47852,35146,19494,11930,50707,38873,22558,12430,17657529
+LU,501,BARu,Barbican,Station entry / exit,Gateline,8778,7849,4749,3030,9377,8407,5183,3168,3467856
+LU,514,BKGu,Barking,Station entry / exit,Gateline,22401,22524,17313,11593,22258,22302,16920,11482,9272519
+LU,515,BDEu,Barkingside,Station entry / exit,Gateline,1586,1536,1046,671,1665,1568,1068,707,647203
+LU,516,BCTu,Barons Court,Station entry / exit,Gateline,7268,6988,5245,3668,7024,6394,4663,3691,2900237
+LU,517,BAYu,Bayswater,Station entry / exit,Gateline,3051,3529,4188,3249,2987,3547,4046,2677,1498957
+LU,518,BECu,Becontree,Station entry / exit,Gateline,4425,4394,3042,1905,4326,4212,2832,1895,1759768
+LU,519,BPKu,Belsize Park,Station entry / exit,Gateline,6465,6449,4499,3351,6332,6014,4253,3272,2609939
+LU,787,BERu,Bermondsey,Station entry / exit,Gateline,9737,10097,9102,6027,9503,9533,8795,5956,4176709
+LU,520,BNGu,Bethnal Green LU,Station entry / exit,Gateline,14525,15583,14334,10276,13771,14582,13756,9733,6322604
+LU,521,BLFu,Blackfriars LU,Station entry / exit,Gateline,12199,10286,8879,6667,11667,9929,7897,6099,4795990
+LU,522,BHRu,Blackhorse Road,Station entry / exit,Gateline,12057,12329,10422,6999,11457,11186,9234,6748,4985901
+LU,524,BDSu,Bond Street,Station entry / exit,Gateline,35930,34595,36512,21311,36693,35134,36422,20770,15694939
+LU,525,BORu,Borough,Station entry / exit,Gateline,4834,5048,4177,2607,4874,4980,4264,2664,2066434
+LU,526,BOSu,Boston Manor,Station entry / exit,Gateline,2068,2118,1710,1149,2141,2093,1549,1188,879895
+LU,527,BGRu,Bounds Green,Station entry / exit,Gateline,5904,6113,5278,3722,5739,5735,4854,3702,2509255
+LU,528,BWRu,Bow Road,Station entry / exit,Gateline,5518,5622,4336,2946,5345,5048,3910,3032,2257180
+LU,529,BTXu,Brent Cross,Station entry / exit,Gateline,2666,2417,1778,1643,2577,2324,1705,1619,1071927
+LU,778,BRXu,Brixton LU,Station entry / exit,Gateline,28198,31524,31360,20600,27434,31129,31133,20249,12831056
+LU,530,BBBu,Bromley-by-Bow,Station entry / exit,Gateline,5021,5074,3431,2535,4988,4740,3113,2556,2030519
+LU,531,BHLu,Buckhurst Hill,Station entry / exit,Gateline,2685,2511,2124,1203,2610,2362,1917,1187,1072751
+LU,532,BURu,Burnt Oak,Station entry / exit,Gateline,4751,4718,3345,2429,4605,4465,3144,2377,1912270
+LU,534,CRDu,Caledonian Road,Station entry / exit,Gateline,5868,6149,4862,3482,5537,5448,4352,3405,2421295
+LU,535,CTNu,Camden Town,Station entry / exit,Gateline,16728,20125,28059,18816,17342,22358,31247,19218,9118497
+LU,788,CWRu,Canada Water,Station entry / exit,Gateline,12239,13430,17208,9602,12443,14928,17213,9673,5970317
+LU,852,CWFu,Canary Wharf LU,Station entry / exit,Gateline,44825,37978,32852,22234,46446,39230,33863,22539,18288802
+LU,884,CNTu,Canning Town,Station entry / exit,Gateline,16996,17995,16135,12443,16973,17632,15700,12006,7522672
+LU,536,CSTu,Cannon Street LU,Station entry / exit,Gateline,6056,4827,3270,2116,5398,4288,2939,1778,2147772
+LU,537,CPKu,Canons Park,Station entry / exit,Gateline,3019,2879,2496,1518,3021,2796,2436,1544,1249231
+LU,539,CLFu,Chalfont & Latimer,Station entry / exit,Scaled,1946,1690,1253,751,1768,1577,1325,848,736602
+LU,540,CHFu,Chalk Farm,Station entry / exit,Gateline,5061,5864,6081,3759,4423,4904,4833,3099,2195398
+LU,541,CYLu,Chancery Lane,Station entry / exit,Gateline,15160,11107,4969,2540,16450,12485,5482,2595,5469516
+LU,718,CHXu,Charing Cross LU,Station entry / exit,Gateline,15476,16202,20095,12017,15394,16317,17935,10603,7154835
+LU,543,CHMu,Chesham,Station entry / exit,Gateline,1307,1263,911,542,1236,1165,823,493,507495
+LU,544,CHGu,Chigwell,Station entry / exit,Gateline,558,515,262,143,466,428,236,143,192328
+LU,545,CHPu,Chiswick Park,Station entry / exit,Gateline,2321,2179,1955,1224,2583,2370,1967,1362,1013033
+LU,546,CWDu,Chorleywood,Station entry / exit,Scaled,2376,1971,1427,1070,1747,1472,1015,893,803805
+LU,547,CPCu,Clapham Common,Station entry / exit,Gateline,10183,10772,10638,6796,10854,11490,11677,7162,4712092
+LU,548,CPNu,Clapham North,Station entry / exit,Gateline,7292,7984,7733,4636,7278,7881,7985,4633,3273797
+LU,549,CPSu,Clapham South,Station entry / exit,Gateline,9042,8877,7920,5016,8842,8013,7222,5211,3758231
+LU,550,CFSu,Cockfosters,Station entry / exit,Gateline,1727,1962,2128,1605,1753,1927,2033,1755,836566
+LU,551,COLu,Colindale,Station entry / exit,Gateline,8352,8359,6672,4785,8043,7807,6080,4643,3432152
+LU,552,CLWu,Colliers Wood,Station entry / exit,Gateline,7143,7405,6606,4540,6877,6684,5804,4447,3024060
+LU,553,COVu,Covent Garden,Station entry / exit,Gateline,13186,15368,19274,12925,15863,20304,26935,15625,7484432
+LU,554,CRXu,Croxley,Station entry / exit,Gateline,1277,1185,747,403,1269,1128,695,434,487950
+LU,555,DGEu,Dagenham East,Station entry / exit,Gateline,3821,3776,2596,1774,3588,3465,2427,1636,1496282
+LU,556,DGHu,Dagenham Heathway,Station entry / exit,Gateline,7160,7066,4753,3164,7132,6960,4630,3148,2869564
+LU,557,DEBu,Debden,Station entry / exit,Gateline,2851,2740,1876,1055,2766,2596,1732,1047,1106863
+LU,558,DHLu,Dollis Hill,Station entry / exit,Gateline,4669,4688,3697,2659,4268,4099,3156,2440,1865453
+LU,560,EBYu,Ealing Broadway,Station entry / exit,Gateline,16138,16353,14070,9638,16401,16178,13761,9830,6934968
+LU,561,ECMu,Ealing Common,Station entry / exit,Gateline,2988,3100,2769,1889,3047,3085,2708,1920,1308100
+LU,562,ECTu,Earl's Court,Station entry / exit,Gateline,18590,19894,18993,13482,18779,20573,19230,12596,8396552
+LU,563,EACu,East Acton,Station entry / exit,Gateline,3001,2944,2099,1450,3548,3324,2340,1829,1326939
+LU,565,EFYu,East Finchley,Station entry / exit,Gateline,6914,6824,5486,3482,6690,6350,4960,3554,2809498
+LU,566,EHMu,East Ham,Station entry / exit,Gateline,14635,14478,10840,7568,14387,13912,10302,7485,5966757
+LU,567,EPYu,East Putney,Station entry / exit,Gateline,7156,6891,6149,4006,7197,6579,5800,4229,3007533
+LU,564,ETEu,Eastcote,Station entry / exit,Gateline,2936,2950,2223,1254,2889,2890,2082,1263,1187714
+LU,568,EDGu,Edgware,Station entry / exit,Gateline,5356,5194,4277,3192,5528,5251,4278,3267,2278683
+LU,774,ERBu,Edgware Road (Bak),Station entry / exit,Gateline,5295,4911,4035,2466,5518,5053,3992,2395,2183058
+LU,569,ERDu,Edgware Road (DIS),Station entry / exit,Gateline,6908,6703,5367,3557,6797,6647,5452,3410,2838710
+LU,570,ELEu,Elephant & Castle LU,Station entry / exit,Gateline,18177,19814,17986,11589,17437,19043,16661,11102,7881463
+LU,571,EPKu,Elm Park,Station entry / exit,Gateline,3649,3389,2134,1438,3553,3233,2082,1499,1406370
+LU,542,EMBu,Embankment,Station entry / exit,Gateline,17860,19044,21927,14531,17312,18747,21708,13218,8251813
+LU,572,EPPu,Epping,Station entry / exit,Scaled,4365,4309,3981,2493,4615,4514,3567,2469,1890743
+LU,574,EUSu,Euston LU,Station entry / exit,Gateline,32263,37613,38383,29978,33743,40080,38966,31863,15882123
+LU,575,ESQu,Euston Square,Station entry / exit,Gateline,12771,12256,8134,6436,13277,13405,8327,6644,5263980
+LU,576,FLPu,Fairlop,Station entry / exit,Gateline,1323,1300,1061,684,1267,1240,1057,685,541194
+LU,577,FARu,Farringdon,Station entry / exit,Gateline,24124,18817,9730,5382,23455,18537,9854,4666,8497573
+LU,578,FYCu,Finchley Central,Station entry / exit,Scaled,8865,8445,6265,3771,8728,8090,5630,4102,3523038
+LU,579,FRDu,Finchley Road,Station entry / exit,Gateline,9442,9941,7640,5628,8943,9146,7089,5354,3908195
+LU,580,FPKu,Finsbury Park,Station entry / exit,Gateline,34453,34873,33227,19187,31165,31282,25964,18382,14048632
+LU,581,FBYu,Fulham Broadway,Station entry / exit,Gateline,9784,9956,8297,5280,9950,9851,8245,5044,4148235
+LU,582,GHLu,Gants Hill,Station entry / exit,Gateline,7046,6967,5212,3603,6731,6503,4915,3545,2835478
+LU,583,GRDu,Gloucester Road,Station entry / exit,Gateline,15218,16296,14568,11117,15970,17174,16062,11007,6967643
+LU,584,GGRu,Golders Green,Station entry / exit,Gateline,8007,7925,5961,4736,8018,7686,5725,4761,3332144
+LU,585,GHRu,Goldhawk Road,Station entry / exit,Gateline,2237,2423,2157,1296,2172,2163,1922,1301,954301
+LU,586,GSTu,Goodge Street,Station entry / exit,Gateline,6132,5687,4017,2374,6745,6579,4341,2316,2537086
+LU,587,GRHu,Grange Hill,Station entry / exit,Gateline,674,590,369,213,552,481,303,189,232680
+LU,588,GPSu,Great Portland Street,Station entry / exit,Gateline,6925,6425,3855,2428,7089,6518,3784,2254,2685637
+LU,590,GPKu,Green Park,Station entry / exit,Gateline,35109,32909,27178,19061,41149,40567,34823,23204,15943763
+LU,589,GFDu,Greenford,Station entry / exit,Gateline,5105,4974,3562,2192,5117,4835,3379,2244,2049869
+LU,591,GUNu,Gunnersbury,Station entry / exit,Gateline,5033,4474,3420,2386,4854,4186,3260,2303,1967487
+LU,592,HAIu,Hainault,Station entry / exit,Gateline,4368,4277,2921,1861,4277,4089,2824,1902,1732237
+LU,593,HMDu,Hammersmith (DIS),Station entry / exit,Gateline,25649,25180,21475,14652,25676,24912,21002,14451,10798249
+LU,773,HMSu,Hammersmith (H&C),Station entry / exit,Gateline,10383,10345,8729,5647,9703,9592,8120,5156,4225083
+LU,594,HMPu,Hampstead,Station entry / exit,Gateline,4536,4747,4027,3252,5090,5277,4411,3720,2111620
+LU,595,HLNu,Hanger Lane,Station entry / exit,Gateline,3637,3434,2714,1758,3569,3344,2632,1732,1467628
+LU,596,HARu,Harlesden,Station entry / exit,Gateline,3955,3894,2422,1468,3924,3763,2331,1530,1549700
+LU,597,HAWu,Harrow & Wealdstone,Station entry / exit,Gateline,5276,5212,3665,2338,5077,4850,3246,2247,2079627
+LU,598,HOHu,Harrow-on-the-Hill,Station entry / exit,Gateline,10958,11310,9094,6041,11602,11770,9350,6375,4761645
+LU,779,HTXu,Hatton Cross,Station entry / exit,Gateline,3192,3288,2767,2433,3245,3293,2750,2459,1411470
+LU,781,HRFu,Heathrow Terminal 4 LU,,,0,0,0,0,0,0,0,0,0
+LU,783,HRVu,Heathrow Terminal 5 LU,Station entry / exit,Gateline,4678,5602,4881,6010,3562,4330,3422,4198,2027837
+LU,780,HRCu,Heathrow Terminals 123 LU,Station entry / exit,Gateline,5920,6011,5203,6757,4738,4622,3984,5059,2452747
+LU,601,HNDu,Hendon Central,Station entry / exit,Gateline,7449,7118,5211,3847,7056,6519,4539,3574,2933496
+LU,602,HBTu,High Barnet,Station entry / exit,Gateline,4504,4527,3383,2169,4392,4252,3173,2212,1826421
+LU,605,HSTu,High Street Kensington,Station entry / exit,Gateline,10370,10271,10068,6738,10238,10267,9537,5570,4454568
+LU,603,HBYu,Highbury & Islington,Station entry / exit,Gateline,18219,19846,18134,12115,19163,20778,19140,13008,8340490
+LU,604,HIGu,Highgate,Station entry / exit,Gateline,5673,5759,4907,3215,5797,5582,4750,3442,2428486
+LU,606,HDNu,Hillingdon,Station entry / exit,Gateline,1816,1918,1559,951,1712,1709,1416,961,747141
+LU,607,HOLu,Holborn,Station entry / exit,Gateline,26412,24319,20062,12874,28672,27963,21949,13213,11252228
+LU,608,HPKu,Holland Park,Station entry / exit,Gateline,4003,3790,2905,1974,3937,3650,2917,2010,1618471
+LU,609,HRDu,Holloway Road,Station entry / exit,Gateline,7013,7092,5161,3671,6997,6750,4830,3748,2882905
+LU,610,HCHu,Hornchurch,Station entry / exit,Gateline,2410,2210,1413,860,2396,2216,1486,897,934752
+LU,611,HNCu,Hounslow Central,Station entry / exit,Gateline,3593,3599,2904,2180,3590,3541,2864,2195,1519626
+LU,612,HNEu,Hounslow East,Station entry / exit,Gateline,4019,4053,3486,2668,4245,4176,3516,2755,1773818
+LU,613,HNWu,Hounslow West,Station entry / exit,Gateline,3513,3552,3205,2535,3557,3517,3174,2689,1550628
+LU,614,HPCu,Hyde Park Corner,Station entry / exit,Gateline,4174,4205,3913,3307,4291,4281,4250,3217,1883530
+LU,615,ICKu,Ickenham,Station entry / exit,Gateline,1193,1196,888,450,1179,1193,859,486,480785
+LU,616,KENu,Kennington,Station entry / exit,Gateline,5577,6059,5725,4020,5412,5620,5648,4258,2486398
+LU,617,KGNu,Kensal Green,Station entry / exit,Gateline,2613,2693,2175,1385,2490,2366,1906,1412,1068362
+LU,618,OLYu,Kensington (Olympia),LU boarding / alighting,Scaled,20,20,220,261,31,31,139,168,34499
+LU,619,KTNu,Kentish Town,LU boarding / alighting,Manual Count,9221,9046,7271,4734,8685,8371,6512,4742,3708705
+LU,620,KETu,Kenton,Station entry / exit,Gateline,2370,2247,1632,1051,2352,2240,1612,1079,949500
+LU,621,KEWu,Kew Gardens,Station entry / exit,Gateline,4625,4845,5346,4154,4533,4710,5225,4075,2146236
+LU,622,KILu,Kilburn,Station entry / exit,Gateline,7693,8100,7042,5063,7466,7493,6507,5008,3297471
+LU,623,KPKu,Kilburn Park,Station entry / exit,Gateline,3215,3519,3112,2050,3049,3145,2762,1999,1375207
+LU,625,KXXu,King's Cross St. Pancras,Station entry / exit,Gateline,76547,86808,89501,69804,77256,90424,89126,71425,36734085
+LU,624,KBYu,Kingsbury,Station entry / exit,Gateline,5130,4990,3580,2464,5066,4891,3458,2448,2067899
+LU,626,KNBu,Knightsbridge,Station entry / exit,Gateline,16492,17025,18733,12581,16202,16842,17699,12028,7453212
+LU,627,LGRu,Ladbroke Grove,Station entry / exit,Gateline,5830,6396,6736,3705,5891,6310,6554,3611,2648507
+LU,628,LAMu,Lambeth North,Station entry / exit,Gateline,2901,3115,3178,2362,2764,2868,2826,1944,1286347
+LU,629,LANu,Lancaster Gate,Station entry / exit,Gateline,5950,6189,6081,4795,5907,6153,5718,4427,2668131
+LU,630,LATu,Latimer Road,Station entry / exit,Gateline,2752,2534,1787,1305,2634,2394,1687,1305,1075229
+LU,631,LSQu,Leicester Square,Station entry / exit,Gateline,30645,37786,53557,34717,29355,39845,55778,33253,16345381
+LU,632,LEYu,Leyton,Station entry / exit,Gateline,12617,12724,11669,7559,12007,11616,10757,7459,5293420
+LU,633,LYSu,Leytonstone,Station entry / exit,Gateline,10145,10308,8310,5741,10050,9881,8122,5835,4259419
+LU,634,LSTu,Liverpool Street LU,Station entry / exit,Gateline,60015,59968,53937,35096,63793,63927,58555,38634,26596893
+LU,635,LONu,London Bridge LU,Station entry / exit,Gateline,70446,73371,73043,47535,68353,70908,68768,45522,30857082
+LU,636,LTNu,Loughton,Station entry / exit,Gateline,3829,3760,3141,1900,3927,3807,3053,1971,1606879
+LU,637,MDVu,Maida Vale,Station entry / exit,Gateline,3465,3594,3043,2023,3271,3199,2657,1961,1433954
+LU,638,MNRu,Manor House,Station entry / exit,Gateline,8227,8896,7947,6056,7965,8122,7208,5820,3593706
+LU,639,MANu,Mansion House,Station entry / exit,Gateline,5620,4132,2716,1718,5840,4437,2835,1575,2088948
+LU,640,MARu,Marble Arch,Station entry / exit,Gateline,12557,11091,11143,8060,12221,10790,10792,7764,5242933
+LU,641,MYBu,Marylebone LU,Station entry / exit,Gateline,10134,10219,9673,7064,10824,10659,10185,7585,4597698
+LU,642,MLEu,Mile End,Station entry / exit,Gateline,15587,16935,13318,9551,15255,15807,12549,9668,6644477
+LU,643,MHEu,Mill Hill East,Station entry / exit,Scaled,2119,2000,1208,820,1757,1649,1056,918,764644
+LU,646,MPKu,Moor Park,Station entry / exit,Gateline,1244,1222,560,320,1212,1171,568,359,463133
+LU,645,MGTu,Moorgate,Station entry / exit,Gateline,23726,17694,8851,5404,25859,19822,10244,5802,8789962
+LU,647,MORu,Morden,Station entry / exit,Gateline,10547,10634,9364,6287,10168,9947,8665,6108,4421002
+LU,648,MCRu,Mornington Crescent,Station entry / exit,Gateline,3722,3280,3050,1789,3421,2917,2179,1373,1425296
+LU,649,NEAu,Neasden,Station entry / exit,Gateline,3977,3987,2817,1909,3670,3612,2591,1857,1564012
+LU,650,NEPu,Newbury Park,Station entry / exit,Gateline,5679,5564,4233,2969,5072,4890,3725,2790,2218404
+LU,653,NACu,North Acton,Station entry / exit,Gateline,7728,7718,5745,3882,7600,7357,5394,3927,3148552
+LU,654,NELu,North Ealing,Station entry / exit,Gateline,894,937,644,410,851,853,606,400,357588
+LU,789,NOGu,North Greenwich,Station entry / exit,Gateline,22040,25208,30109,23155,22936,26656,31943,24568,11279522
+LU,656,NHRu,North Harrow,Station entry / exit,Gateline,2006,1881,1279,746,1917,1734,1200,762,769257
+LU,659,NWBu,North Wembley,Station entry / exit,Gateline,1974,1971,1346,904,1878,1838,1225,891,778946
+LU,655,NFDu,Northfields,Station entry / exit,Gateline,3876,3819,3102,2223,3851,3777,3173,2384,1630938
+LU,657,NHTu,Northolt,Station entry / exit,Gateline,6092,6117,4695,3044,5870,5745,4282,2986,2467440
+LU,660,NWPu,Northwick Park,Station entry / exit,Gateline,4727,4657,2779,1855,4633,4380,2623,1870,1836276
+LU,661,NWDu,Northwood,Station entry / exit,Gateline,3244,3140,2041,1220,3263,3039,1906,1220,1274615
+LU,662,NWHu,Northwood Hills,Station entry / exit,Gateline,2100,2135,1430,873,2024,2023,1326,898,831677
+LU,663,NHGu,Notting Hill Gate,Station entry / exit,Gateline,13933,14538,15913,9544,14054,14877,17094,10003,6404193
+LU,664,OAKu,Oakwood,Station entry / exit,Gateline,2846,2923,2963,2031,2919,2943,3011,2157,1290796
+LU,665,OLDu,Old Street,Station entry / exit,Gateline,22410,22149,18726,11628,22936,24787,21652,11427,9635310
+LU,667,OSTu,Osterley,Station entry / exit,Gateline,2138,2077,1915,1335,2148,1972,1784,1369,911252
+LU,668,OVLu,Oval,Station entry / exit,Gateline,7472,7685,6537,4546,7190,7071,5892,4371,3129276
+LU,669,OXCu,Oxford Circus,Station entry / exit,Gateline,69643,68935,68293,43807,77884,83539,90459,49947,32863152
+LU,670,PADu,Paddington TfL,Station entry / exit,Gateline,44560,48077,47618,37271,43945,49272,46532,36045,20437217
+LU,671,PRYu,Park Royal,Station entry / exit,Gateline,2186,2201,1682,1101,2248,2325,1722,1039,918333
+LU,672,PGRu,Parsons Green,Station entry / exit,Gateline,7538,7135,5486,3483,7344,6689,4912,3422,2993897
+LU,673,PERu,Perivale,Station entry / exit,Gateline,2685,2596,1886,1200,2671,2535,1849,1243,1080893
+LU,674,PICu,Piccadilly Circus,Station entry / exit,Gateline,29006,32492,40419,26575,27935,34536,42820,23694,14144793
+LU,776,PIMu,Pimlico,Station entry / exit,Gateline,9857,9393,7814,5576,9690,9001,7491,5439,4058878
+LU,675,PINu,Pinner,Station entry / exit,Scaled,3109,3148,2478,1627,3052,2806,2451,1633,1280875
+LU,676,PLWu,Plaistow,Station entry / exit,Gateline,6837,6753,4445,3151,6427,6220,4123,3155,2671882
+LU,677,PRDu,Preston Road,Station entry / exit,Gateline,3395,3390,2502,1711,3348,3266,2437,1757,1388173
+LU,678,PUTu,Putney Bridge,Station entry / exit,Gateline,6104,5993,5497,3519,6654,6373,5358,3569,2686314
+LU,680,QPKu,Queen's Park,Station entry / exit,Gateline,5751,5857,4941,3334,5446,5324,4513,3316,2380111
+LU,679,QBYu,Queensbury,Station entry / exit,Gateline,4505,4460,3328,2119,4533,4289,3145,2093,1835750
+LU,681,QWYu,Queensway,Station entry / exit,Gateline,7389,8601,9196,6787,7705,8844,9357,6436,3619504
+LU,682,RCPu,Ravenscourt Park,Station entry / exit,Gateline,3760,3857,2727,1830,3714,3772,2543,1820,1533828
+LU,683,RAYu,Rayners Lane,Station entry / exit,Gateline,4318,4316,3344,2141,4270,4226,3301,2164,1778250
+LU,684,REDu,Redbridge,Station entry / exit,Gateline,3105,3043,2585,1776,2902,2726,2283,1705,1259738
+LU,685,RPKu,Regent's Park,Station entry / exit,Gateline,2897,2712,1843,1199,3422,3394,2367,1528,1265551
+LU,686,RMDu,Richmond,LU boarding / alighting,Scaled,4387,5761,4413,4376,4970,5325,4138,5071,2196602
+LU,687,RKYu,Rickmansworth,Station entry / exit,Gateline,2809,2825,1766,1008,2743,2704,1709,1044,1098469
+LU,688,RODu,Roding Valley,Station entry / exit,Manual Count,327,260,198,120,501,383,299,129,155226
+LU,690,ROYu,Royal Oak,Station entry / exit,Gateline,2916,2878,2247,1646,2769,2634,2117,1633,1185481
+LU,691,RUIu,Ruislip,Station entry / exit,Gateline,1968,2009,1604,858,2012,2023,1583,885,821706
+LU,692,RUGu,Ruislip Gardens,Station entry / exit,Gateline,1214,1197,954,561,1102,1068,825,566,476607
+LU,693,RUMu,Ruislip Manor,Station entry / exit,Gateline,2014,2122,1683,842,2044,2081,1556,895,839242
+LU,694,RSQu,Russell Square,Station entry / exit,Gateline,8556,8683,6798,5141,8789,9053,6824,4805,3655414
+LU,698,SVSu,Seven Sisters,Station entry / exit,Gateline,17156,18200,15130,11294,16807,17214,14343,10955,7364300
+LU,700,SBCu,Shepherd's Bush LU,Station entry / exit,Gateline,17221,18441,19128,12404,16202,17142,17505,11333,7584135
+LU,775,SBMu,Shepherd's Bush Market,Station entry / exit,Gateline,3837,4213,3969,2304,3659,3844,3569,2265,1656236
+LU,702,SSQu,Sloane Square,Station entry / exit,Gateline,17263,17252,15356,9790,17237,17391,15911,9765,7380128
+LU,703,SNBu,Snaresbrook,Station entry / exit,Gateline,2702,2585,2108,1330,2566,2395,1928,1406,1083968
+LU,704,SELu,South Ealing,Station entry / exit,Gateline,3560,3627,2888,1917,3564,3451,2848,2047,1495186
+LU,707,SHRu,South Harrow,Station entry / exit,Gateline,2409,2410,1807,1227,2518,2481,1795,1268,1013772
+LU,708,SKNu,South Kensington,Station entry / exit,Gateline,24347,25157,23718,17939,23982,25626,24357,17648,10824383
+LU,709,SKTu,South Kenton,Station entry / exit,Scaled,1330,1422,1204,772,1611,1864,1076,867,626386
+LU,710,SRPu,South Ruislip,Station entry / exit,Gateline,2174,2159,1635,1109,2132,2064,1577,1129,888276
+LU,711,SWMu,South Wimbledon,Station entry / exit,Gateline,4714,4614,3785,2563,4582,4387,3568,2561,1937293
+LU,712,SWFu,South Woodford,Station entry / exit,Gateline,5614,5505,4617,2898,5864,5567,4555,3027,2380524
+LU,705,SFSu,Southfields,Station entry / exit,Gateline,6717,6329,5390,3396,6433,5714,4789,3404,2695552
+LU,706,SGTu,Southgate,Station entry / exit,Gateline,5180,5460,4618,3275,5525,5673,4690,3478,2312226
+LU,784,SWKu,Southwark,Station entry / exit,Gateline,12165,10764,8750,6005,12741,11676,9618,5998,5034192
+LU,695,SJPu,St. James's Park,Station entry / exit,Gateline,10244,8305,5216,3768,10461,8707,5504,3833,3901970
+LU,696,SJWu,St. John's Wood,Station entry / exit,Gateline,8395,8436,5877,4047,8601,8461,5860,4227,3464027
+LU,697,STPu,St. Paul's,Station entry / exit,Gateline,13696,11715,8457,5553,14064,12074,8374,5085,5359932
+LU,713,STBu,Stamford Brook,Station entry / exit,Gateline,2963,2950,2480,1653,2880,2710,2271,1624,1223866
+LU,714,STAu,Stanmore,Station entry / exit,Gateline,3942,4099,3730,2358,4083,4003,3464,2599,1729034
+LU,715,STGu,Stepney Green,Station entry / exit,Gateline,6604,6914,4832,3429,6522,6464,4469,3375,2707641
+LU,716,STKu,Stockwell,Station entry / exit,Gateline,10931,11599,10691,7425,9920,10144,9445,7027,4614856
+LU,717,SPKu,Stonebridge Park,Station entry / exit,Gateline,3162,3150,2053,1322,3036,2932,1914,1310,1237627
+LU,719,SFDu,Stratford,Station entry / exit,Gateline,62497,67115,71770,48381,63636,68763,72426,48352,29106619
+LU,720,SHLu,Sudbury Hill,Station entry / exit,Gateline,2189,2172,1564,969,2211,2157,1478,997,889529
+LU,721,STNu,Sudbury Town,Station entry / exit,Gateline,2118,2114,1617,1082,1937,1867,1402,1002,835671
+LU,723,SWCu,Swiss Cottage,Station entry / exit,Gateline,7382,7282,5612,3781,7190,6885,5303,3727,3001198
+LU,724,TEMu,Temple,Station entry / exit,Gateline,7595,6735,4320,2452,8346,8160,4864,2693,3070900
+LU,725,THBu,Theydon Bois,Station entry / exit,Gateline,1012,1024,930,526,975,948,897,566,423967
+LU,726,TBEu,Tooting Bec,Station entry / exit,Gateline,8731,8830,7924,5014,8216,7757,6914,5103,3610529
+LU,727,TBYu,Tooting Broadway,Station entry / exit,Gateline,16094,17008,14569,9305,16124,16105,13551,9294,6892544
+LU,728,TCRu,Tottenham Court Road,Station entry / exit,Gateline,34316,35648,44163,24047,34647,38423,43807,23634,16036231
+LU,729,TTHu,Tottenham Hale LU,Station entry / exit,Gateline,16153,16934,15214,13331,15704,16546,14189,11801,7115066
+LU,730,TOTu,Totteridge & Whetstone,Station entry / exit,Gateline,2607,2570,2102,1311,2528,2462,1954,1303,1064853
+LU,731,THLu,Tower Hill,Station entry / exit,Gateline,15552,16468,18125,12759,15811,17701,19408,11994,7328488
+LU,733,TPKu,Tufnell Park,Station entry / exit,Gateline,3653,3748,3599,2403,3413,3168,3184,2276,1540273
+LU,734,TGRu,Turnham Green,Station entry / exit,Gateline,6088,6236,5375,3816,6248,6390,5439,3977,2661114
+LU,735,TPLu,Turnpike Lane,Station entry / exit,Gateline,10221,10765,9621,6942,10346,10469,9048,6973,4494164
+LU,736,UPMu,Upminster,Station entry / exit,Gateline,5466,5185,4085,2278,5513,5191,4000,2392,2214271
+LU,737,UPBu,Upminster Bridge,Station entry / exit,Gateline,1427,1237,495,288,1403,1244,484,308,507765
+LU,738,UPYu,Upney,Station entry / exit,Gateline,3269,3210,2045,1341,3001,2870,1817,1237,1241844
+LU,739,UPKu,Upton Park,Station entry / exit,Gateline,11856,11565,8904,6062,11437,10865,8333,5965,4784244
+LU,740,UXBu,Uxbridge,Station entry / exit,Gateline,8560,8856,6312,3911,8491,8355,5901,4039,3486758
+LU,777,VUXu,Vauxhall LU,Station entry / exit,Gateline,32213,33764,29566,20585,30472,30516,27108,20239,13623576
+LU,741,VICu,Victoria LU,Station entry / exit,Gateline,73591,77402,76219,52526,76355,77247,74958,55658,33480926
+LU,742,WALu,Walthamstow Central,Station entry / exit,Gateline,18397,18809,16383,11064,18440,18434,15956,11411,7906474
+LU,743,WANu,Wanstead,Station entry / exit,Gateline,2668,2689,2446,1654,2822,2853,2463,1697,1181072
+LU,745,WSTu,Warren Street,Station entry / exit,Gateline,17843,16431,9750,6907,18688,17498,9706,6713,7038704
+LU,746,WARu,Warwick Avenue,Station entry / exit,Gateline,3987,4057,3458,2296,3863,3727,3300,2443,1673860
+LU,747,WLOu,Waterloo LU,Station entry / exit,Gateline,66906,68781,71410,41205,67295,69060,72898,44255,29868623
+LU,748,WATu,Watford,Station entry / exit,Gateline,2441,2381,1426,874,2433,2412,1447,898,955674
+LU,751,WEMu,Wembley Central,Station entry / exit,Gateline,6162,6257,5557,3516,6511,6699,5677,3605,2708193
+LU,752,WPKu,Wembley Park,Station entry / exit,Gateline,17402,20104,18391,12475,17187,19866,17868,11983,7894562
+LU,753,WACu,West Acton,Station entry / exit,Gateline,1754,1753,1334,812,1725,1603,1239,841,709948
+LU,755,WBTu,West Brompton,Station entry / exit,Manual Count,6364,6367,6042,3728,6531,6002,5733,3360,2734932
+LU,756,WFYu,West Finchley,Station entry / exit,Gateline,1786,1727,1303,879,1694,1528,1150,862,705772
+LU,757,WHMu,West Ham,Station entry / exit,Gateline,6745,6808,4283,3173,6770,6751,4139,3110,2718754
+LU,758,WHDu,West Hampstead LU,Station entry / exit,Gateline,10964,10931,9311,6265,10219,9890,8423,5888,4472941
+LU,759,WHRu,West Harrow,Station entry / exit,Scaled,1231,1392,1055,676,1375,1432,1129,865,560543
+LU,760,WKNu,West Kensington,Station entry / exit,Gateline,4854,5051,4311,3202,4618,4390,3591,2996,2028753
+LU,762,WRPu,West Ruislip,Station entry / exit,Gateline,1685,1640,1438,825,1745,1648,1363,823,708681
+LU,754,WBPu,Westbourne Park,Station entry / exit,Gateline,4530,4626,3490,2225,4266,4228,3220,2234,1823204
+LU,761,WMSu,Westminster,Station entry / exit,Gateline,17557,15340,16572,12037,18418,16311,17146,11840,7699650
+LU,764,WCTu,White City,Station entry / exit,Gateline,11840,10260,8191,5393,11328,10045,8056,5412,4624537
+LU,763,WCLu,Whitechapel,Station entry / exit,Gateline,15538,15168,9968,6934,15385,15057,10053,7019,6205116
+LU,765,WLGu,Willesden Green,Station entry / exit,Gateline,8044,8228,6748,4885,7935,7743,6143,4808,3384122
+LU,766,WJNu,Willesden Junction,Station entry / exit,Gateline,6479,6481,4838,3147,6362,6149,4523,3178,2631398
+LU,767,WIMu,Wimbledon,LU boarding / alighting,Scaled,16583,15949,14063,8423,17177,16558,14561,9069,7056386
+LU,768,WMPu,Wimbledon Park,Station entry / exit,Gateline,2555,2400,2115,1257,2553,2331,2038,1344,1053984
+LU,770,WGNu,Wood Green,Station entry / exit,Gateline,12368,13406,12284,8393,11985,12810,11952,8259,5433153
+LU,599,WDLu,Wood Lane,Station entry / exit,Gateline,4727,4596,5027,2902,5242,5144,5649,3263,2194795
+LU,769,WFDu,Woodford,Station entry / exit,Gateline,6481,6284,5441,3378,6364,5909,4924,3330,2663457
+LU,771,WSPu,Woodside Park,Station entry / exit,Scaled,3612,3506,2762,1868,6119,5782,4509,3682,2015727
+LU,831,NIEu,Nine Elms,Station entry / exit,Gateline,2754,2933,2738,1998,2461,2530,2348,1811,1163116
+LU,832,BPSu,Battersea Power Station,Station entry / exit,Gateline,5262,5337,4518,3109,4911,5016,4369,2905,2177911
+LO,1404,ACCr,Acton Central,Station entry / exit,Gateline,2486,2487,1969,1333,2432,2294,1805,1315,1167174
+LO,5397,ANYr,Anerley,Station entry / exit,Scaled,1725,1548,1046,1325,1762,1517,887,1471,821918
+LO,514,BKGu,Barking,LO boarding / alighting,Scale_earlier,4192,4847,3675,2709,4259,4390,3165,2463,2081131
+LO,5420,BAKr,Battersea Park,LO boarding / alighting,Loadweigh,20,23,0,10,14,13,0,0,6842
+LO,6961,BETr,Bethnal Green LO,Station entry / exit,Gateline,2054,2089,1660,1282,2228,2312,1859,1373,1047192
+LO,522,BHRu,Blackhorse Road,LO boarding / alighting,Scaled,2947,2945,2757,1659,3357,3327,3234,1882,1550700
+LO,5404,BCYr,Brockley,Station entry / exit,Gateline,4778,5115,4536,2993,4400,4342,3743,2886,2280512
+LO,1437,BSYr,Brondesbury,Station entry / exit,Gateline,3896,4101,3406,2054,3705,3746,2971,1943,1838214
+LO,1438,BSPr,Brondesbury Park,Station entry / exit,Scaled,2202,2296,1138,825,2172,2246,1115,928,984626
+LO,6958,BCVr,Bruce Grove,Station entry / exit,Manual Count,3116,2720,2113,2224,2698,2561,1829,1752,1378067
+LO,6913,BHKr,Bush Hill Park,Station entry / exit,Scaled,1767,1581,1402,856,1489,1278,1033,760,753674
+LO,1395,BSHr,Bushey,LO boarding / alighting,Scaled,551,644,1190,469,989,608,1022,401,396594
+LO,1439,CIRr,Caledonian Road & Barnsbury,Station entry / exit,Manual Count,2678,3209,2290,1351,2806,3278,2176,1475,1350071
+LO,6962,CBHr,Cambridge Heath,Station entry / exit,Manual Count,1806,1756,1471,1240,1805,1871,1514,1235,889589
+LO,1440,CMDr,Camden Road,Station entry / exit,Gateline,5650,5743,5293,3384,5772,6066,5723,3585,2853286
+LO,788,CWRu,Canada Water,LO boarding / alighting,Scaled,24578,24571,24161,12311,23072,25542,26685,13052,11980069
+LO,1441,CNNr,Canonbury,Station entry / exit,Gateline,3693,4039,3604,2441,3408,3498,3286,2450,1803938
+LO,1442,CPKr,Carpenders Park,Station entry / exit,Gateline,1665,1688,1219,707,1632,1626,1138,718,766704
+LO,6814,CHNr,Cheshunt,LO boarding / alighting,Scaled,549,570,592,528,680,698,868,827,340289
+LO,6914,CHIr,Chingford,Station entry / exit,Gateline,2742,2644,2266,1416,2622,2514,2134,1410,1279317
+LO,5301,CLPr,Clapham High Street,Station entry / exit,Manual Count,2272,2601,2277,1492,2426,3001,2650,1769,1231647
+LO,5595,CLJr,Clapham Junction,LO boarding / alighting,Loadweigh,21190,21132,22223,18492,18674,18320,20588,15935,10438622
+LO,6926,CPTr,Clapton,Station entry / exit,Scaled,2529,2486,2245,1505,2202,2166,1905,1391,1157488
+LO,7406,CRHr,Crouch Hill,Station entry / exit,Scaled,1472,1527,1321,691,1526,1579,1339,785,727117
+LO,5356,CYPr,Crystal Palace,LO boarding / alighting,Loadweigh,3001,2889,3436,2830,3375,2940,3499,3005,1667100
+LO,1443,DLJr,Dalston Junction,Station entry / exit,Gateline,6142,7083,6721,4427,5963,7079,6892,4366,3212644
+LO,1429,DLKr,Dalston Kingsland,Station entry / exit,Gateline,7883,8757,8453,5187,7678,8624,8605,5243,4048993
+LO,5421,DMKr,Denmark Hill,LO boarding / alighting,Scaled,9502,9718,5357,4739,9859,10144,5498,4749,4447266
+LO,6941,EDRr,Edmonton Green,LO boarding / alighting,Scaled,4761,4724,4096,2968,4959,4952,3701,2814,2348713
+LO,7473,EMPr,Emerson Park,Station entry / exit,Manual Count,519,479,257,102,340,329,162,102,183964
+LO,6959,ENFr,Enfield Town,Station entry / exit,Gateline,3163,3199,2324,1874,2886,2829,1921,1684,1437473
+LO,1444,EUSr,Euston NR,LO boarding / alighting,Scale_earlier,3533,3421,4220,2517,4600,4668,5793,2829,2116277
+LO,1445,FNYr,Finchley Road & Frognal,Station entry / exit,Scaled,3026,3122,1724,1381,3282,3382,1946,1465,1445981
+LO,5362,FOHr,Forest Hill,LO boarding / alighting,Scaled,3329,3421,3123,2408,3428,3527,3050,2455,1701565
+LO,1409,GPOr,Gospel Oak,Station entry / exit,Gateline,3776,3916,3069,2219,3563,3610,2736,2124,1777739
+LO,591,GUNu,Gunnersbury,LO boarding / alighting,Scaled,1775,1721,1870,1829,2088,1999,1899,1010,974571
+LO,6977,HKCr,Hackney Central,Station entry / exit,Gateline,7464,8554,7945,4798,7385,8648,8216,4901,3873150
+LO,6867,HACr,Hackney Downs,LO boarding / alighting,Scaled,4173,4042,4439,2331,4361,4459,4547,2341,2128124
+LO,6978,HKWr,Hackney Wick,Station entry / exit,Scaled,4158,4229,4156,2447,3755,4284,4476,2578,2034502
+LO,1022,HGGr,Haggerston,Station entry / exit,Issue,3426,3834,3747,2385,3458,4041,4108,2375,1815479
+LO,1413,HDHr,Hampstead Heath,Station entry / exit,Gateline,4720,4578,3710,3017,4506,4401,3718,3093,2246249
+LO,596,HARu,Harlesden,LO boarding / alighting,Scaled,1774,1733,1325,620,1556,1520,961,938,771702
+LO,7401,HRYr,Harringay Green Lanes,Station entry / exit,Scaled,1827,1750,1926,1241,2045,1997,1967,1466,976641
+LO,597,HAWu,Harrow & Wealdstone,LO boarding / alighting,Scaled,3221,3171,2971,2353,4040,3982,3187,3046,1805246
+LO,1398,HTEr,Hatch End,Station entry / exit,Gateline,958,992,697,408,926,962,706,430,443478
+LO,1434,HDLr,Headstone Lane,Station entry / exit,Manual Count,877,915,512,397,795,778,457,437,384932
+LO,6919,HIPr,Highams Park,Station entry / exit,Gateline,3924,3811,2814,1651,3610,3430,2463,1604,1735398
+LO,603,HBYu,Highbury & Islington,LO boarding / alighting,Scaled,25792,23029,23730,16297,25895,19473,22374,13523,12291964
+LO,6979,HMNr,Homerton,Station entry / exit,Gateline,6429,6708,5549,3494,5989,5845,4821,3386,3004286
+LO,5418,HPAr,Honor Oak Park,Station entry / exit,Gateline,3532,3482,2936,1892,3321,3087,2663,1922,1640297
+LO,1023,HOXr,Hoxton,Station entry / exit,Gateline,3809,3875,3207,2733,3881,4162,3629,3211,1949719
+LO,9586,IMWr,Imperial Wharf,Station entry / exit,Gateline,4793,4736,2749,1721,4457,4337,2482,1505,2061276
+LO,617,KGNu,Kensal Green,LO boarding / alighting,Scaled,784,793,676,496,975,954,858,714,435842
+LO,1448,KNRr,Kensal Rise,Station entry / exit,Manual Count,4598,3854,3868,2397,4364,3457,3635,2375,2095470
+LO,618,OLYu,Kensington (Olympia),LO boarding / alighting,Scaled,3614,3103,1192,1185,4055,3288,1272,1292,1587992
+LO,1449,KTWr,Kentish Town West,Station entry / exit,Manual Count,3211,3884,2808,1972,3228,3883,2812,1987,1629280
+LO,620,KETu,Kenton,LO boarding / alighting,Scaled,989,929,516,494,1287,1219,465,416,496919
+LO,621,KEWu,Kew Gardens,LO boarding / alighting,Scaled,1906,1787,1578,1361,1717,1619,1548,1072,886683
+LO,1415,KBNr,Kilburn High Road,Station entry / exit,Gateline,1102,1195,928,677,1085,1133,856,723,539192
+LO,7402,LEMr,Leyton Midland Road,Station entry / exit,Gateline,2137,2145,1678,962,2113,2069,1543,981,997076
+LO,7403,LERr,Leytonstone High Road,Station entry / exit,Gateline,1556,1613,1266,757,1462,1523,1142,707,721287
+LO,6965,LSTr,Liverpool Street NR,LO boarding / alighting,Manual Count,13227,12187,9832,6799,13209,12555,10535,6617,6209630
+LO,6966,LOFr,London Fields,Station entry / exit,Scaled,2254,2264,2193,1594,2331,2341,2620,2080,1188188
+LO,5150,NWXr,New Cross,LO boarding / alighting,Loadweigh,3054,3124,2970,2030,3056,2908,2897,2184,1532792
+LO,5345,NXGr,New Cross Gate,LO boarding / alighting,Scaled,5157,5365,5076,2994,6095,5830,4598,3218,2724966
+LO,659,NWBu,North Wembley,LO boarding / alighting,Scaled,717,710,439,317,656,654,392,316,314603
+LO,5376,NWDr,Norwood Junction,LO boarding / alighting,Scaled,1976,1916,1468,1021,1801,1766,1302,879,886919
+LO,5423,PMRr,Peckham Rye,LO boarding / alighting,Scaled,3826,3945,4288,3131,4716,4943,4950,3879,2241738
+LO,5378,PNWr,Penge West,Station entry / exit,Manual Count,1164,1266,1186,757,1105,1162,999,710,572881
+LO,680,QPKu,Queen's Park,LO boarding / alighting,Scaled,2240,2237,1969,1539,2239,2206,1708,1631,1104025
+LO,5424,QRPr,Queens Road Peckham,Station entry / exit,Scaled,2352,1919,2411,1675,2311,1867,2373,1753,1158467
+LO,6967,RECr,Rectory Road,Station entry / exit,Manual Count,1965,1688,1465,1034,1762,1560,1284,1073,869834
+LO,686,RMDu,Richmond,LO boarding / alighting,Loadweigh,4386,4333,4621,5013,4514,4646,4780,5425,2434923
+LO,6886,RMFr,Romford,LO boarding / alighting,Scaled,863,856,435,297,1003,1023,591,283,413924
+LO,1039,ROEr,Rotherhithe,Station entry / exit,Gateline,1796,1944,1708,1205,1610,1666,1455,1157,860347
+LO,698,SVSu,Seven Sisters,LO boarding / alighting,Manual Count,10750,11372,9463,7066,9936,10175,8477,6475,5132396
+LO,1082,SDEr,Shadwell LO,Station entry / exit,Gateline,5279,5733,5079,3423,5403,5703,4754,3442,2678672
+LO,9587,SPBr,Shepherd's Bush NR,Station entry / exit,Gateline,9045,9472,8784,5501,9074,9685,8974,5507,4551302
+LO,1024,SDCr,Shoreditch High Street,Station entry / exit,Gateline,8209,8647,9213,6663,8745,10760,11795,6829,4601311
+LO,6972,SLVr,Silver Street,Station entry / exit,Scaled,3556,3465,2412,1846,3630,3635,2453,1949,1682406
+LO,1452,SATr,South Acton,Station entry / exit,Scaled,1592,1618,1501,1327,1684,1629,1422,1398,831678
+LO,1451,SOHr,South Hampstead,Station entry / exit,Scaled,855,862,634,574,829,868,660,574,412312
+LO,709,SKTu,South Kenton,LO boarding / alighting,Scaled,421,447,358,531,694,694,484,567,284940
+LO,7404,STOr,South Tottenham,Station entry / exit,Gateline,1986,1974,1394,1054,2053,2092,1451,1011,950085
+LO,6947,SBUr,Southbury,Station entry / exit,Gateline,1443,1432,1024,733,1525,1454,1046,795,693974
+LO,6973,SJSr,St James Street,Station entry / exit,Gateline,1845,1892,1678,1049,1829,1792,1522,1016,893897
+LO,6968,SMHr,Stamford Hill,Station entry / exit,Scaled,1507,1542,1013,801,1475,1477,883,739,695033
+LO,6934,SKWr,Stoke Newington,Station entry / exit,Manual Count,2519,2423,2043,1449,2395,2222,1895,1438,1176525
+LO,717,SPKu,Stonebridge Park,LO boarding / alighting,Scaled,1036,1012,422,287,1027,985,406,277,440025
+LO,719,SFDu,Stratford,LO boarding / alighting,Loadweigh,20080,20730,24687,25297,19124,19038,23061,24595,11121978
+LO,1083,SQEr,Surrey Quays,Station entry / exit,Gateline,6214,6702,6031,3561,5547,5840,5361,3233,2939844
+LO,5437,SYDr,Sydenham,LO boarding / alighting,Scaled,2701,2674,2623,1680,3274,3250,2478,1932,1456686
+LO,6949,TEOr,Theobalds Grove,Station entry / exit,Gateline,1060,995,630,609,963,885,568,565,466660
+LO,6952,TURr,Turkey Street,Station entry / exit,Gateline,1539,1493,917,711,1425,1323,781,676,671342
+LO,736,UPMu,Upminster,LO boarding / alighting,Scaled,718,699,488,185,710,680,442,223,318551
+LO,1524,UHLr,Upper Holloway,Station entry / exit,Manual Count,2431,2419,1754,1181,2540,2760,1796,1158,1169992
+LO,742,WALu,Walthamstow Central,LO boarding / alighting,Scaled,5555,5663,4941,3340,4844,4755,6580,4612,2702322
+LO,7407,WMWr,Walthamstow Queen's Road,Station entry / exit,Scaled,1755,1747,1398,810,1673,1682,2458,1403,877303
+LO,5372,WWRr,Wandsworth Road,Station entry / exit,Scaled,988,679,874,553,979,674,833,563,455293
+LO,7408,WNPr,Wanstead Park,Station entry / exit,Gateline,1915,1925,1544,875,1849,1825,1459,878,890743
+LO,1085,WPEr,Wapping,Station entry / exit,Gateline,2670,2912,2963,1805,2521,2623,2666,1739,1340834
+LO,1455,WFHr,Watford High Street,Station entry / exit,Gateline,1926,2026,2224,1213,1784,1971,2245,1179,971404
+LO,1402,WFJr,Watford Junction,LO boarding / alighting,Scaled,2006,2144,2709,2239,2044,2028,2547,2171,1135592
+LO,751,WEMu,Wembley Central,LO boarding / alighting,Scaled,1929,1624,2346,1376,2045,1772,2012,1133,988833
+LO,755,WBTu,West Brompton,LO boarding / alighting,Scaled,4118,3987,3847,2804,4198,4175,4123,2723,2076216
+LO,5411,WCYr,West Croydon NR,LO boarding / alighting,Loadweigh,4328,4241,5728,4099,4066,4004,5195,3845,2293962
+LO,1421,WHDr,West Hampstead LO,Station entry / exit,Gateline,6484,6610,5506,3513,6437,6451,5268,3437,3117437
+LO,6956,WHLr,White Hart Lane,Station entry / exit,Gateline,2605,2721,1725,1098,2417,2495,1528,1066,1161269
+LO,763,WCLu,Whitechapel,LO boarding / alighting,Scaled,15504,14294,12860,11771,15153,13862,13063,11939,7576025
+LO,766,WJNu,Willesden Junction,LO boarding / alighting,Scaled,13108,11843,8556,3795,14327,12502,9497,4768,6074653
+LO,6954,WSTr,Wood Street,Station entry / exit,Scaled,2802,2543,2017,1439,2542,2225,1771,1491,1242080
+LO,7467,WGRr,Woodgrange Park,Station entry / exit,Gateline,1392,1382,1098,696,1289,1246,948,622,631946
+DLR,750,ABRd,Abbey Road,Station entry / exit,APC,1658,1665,1326,1012,1625,1625,1332,1039,796342
+DLR,850,ALSd,All Saints,Station entry / exit,APC,2323,2418,2007,1434,2301,2348,1916,1413,1131935
+DLR,513,BNKu,Bank and Monument,DLR boarding / alighting,Manual Count,24937,21964,17643,13154,29125,25589,21435,14979,12475324
+DLR,895,BECd,Beckton,Station entry / exit,APC,2893,2808,2078,1509,2987,2881,2140,1508,1373476
+DLR,891,BEPd,Beckton Park,Station entry / exit,Manual Count,623,601,460,312,610,574,420,332,287548
+DLR,882,BLAd,Blackwall,Station entry / exit,APC,2150,2188,1700,1199,2475,2366,1815,1361,1097865
+DLR,851,BOCd,Bow Church,Station entry / exit,Manual Count,3402,3410,3389,1913,3273,3300,3375,1851,1655934
+DLR,842,CAWd,Canary Wharf DLR,Station entry / exit,APC,13542,12244,10457,7488,14682,13633,11411,7918,6634865
+DLR,884,CNTu,Canning Town,DLR boarding / alighting,APC,28205,27143,26795,19506,26478,25942,25307,18018,13622168
+DLR,854,CROd,Crossharbour,Station entry / exit,APC,4640,4809,4119,2892,4582,4591,3860,2831,2260969
+DLR,887,CUHd,Custom House,Station entry / exit,APC,4675,3311,3710,2146,4650,3013,3442,1881,2065445
+DLR,879,CUSd,Cutty Sark,Station entry / exit,APC,7442,7580,8197,6026,7774,7650,7783,5930,3920658
+DLR,893,CYPd,Cyprus,Station entry / exit,APC,2856,1963,930,732,2898,1876,914,781,1138664
+DLR,897,DEBd,Deptford Bridge,Station entry / exit,Manual Count,3485,3695,3503,2439,3468,3658,3453,2313,1766459
+DLR,867,DERd,Devons Road,Station entry / exit,APC,3026,3079,2514,1864,2947,2855,2371,1832,1447472
+DLR,883,EAId,East India,Station entry / exit,APC,5373,5204,3652,2630,4787,4526,3079,2177,2333112
+DLR,898,ELRd,Elverson Road,Station entry / exit,APC,1905,1960,1637,1216,1709,1683,1398,1128,884912
+DLR,894,GARd,Gallions Reach,Station entry / exit,APC,2185,2132,1938,1393,2322,2162,1942,1475,1095624
+DLR,928,GREd,Greenwich,DLR boarding / alighting,APC,5140,5489,5281,3748,5363,5736,5911,4127,2725047
+DLR,855,HEQd,Heron Quays,Station entry / exit,APC,7886,7202,6473,4973,8157,7649,6872,5024,3857998
+DLR,856,ISGd,Island Gardens,Station entry / exit,APC,3162,3290,2989,2098,2941,2901,2577,1913,1514372
+DLR,523,KGVd,King George V,Station entry / exit,APC,2635,2644,1866,1324,2672,2614,1806,1359,1237801
+DLR,853,LAPd,Langdon Park,Station entry / exit,APC,5998,6023,5006,3856,5337,5395,4444,3395,2768650
+DLR,940,LEWd,Lewisham DLR,Station entry / exit,APC,9662,9682,8037,5691,9851,9680,7877,5718,4701185
+DLR,862,LIMd,Limehouse DLR,Station entry / exit,APC,8284,8531,6192,4239,11989,12314,8670,6288,4798610
+DLR,533,LCAd,London City Airport,Station entry / exit,APC,3629,3767,1490,2237,3311,3792,1329,2114,1601328
+DLR,857,MUDd,Mudchute,Station entry / exit,APC,2336,2446,2208,1590,2219,2225,2013,1611,1142393
+DLR,538,PDKd,Pontoon Dock,Station entry / exit,APC,3430,3674,3680,2644,3504,3620,3605,2643,1794022
+DLR,858,POPd,Poplar,Station entry / exit,APC,1707,1578,1051,956,1883,1798,1122,1042,825604
+DLR,888,PRRd,Prince Regent,Station entry / exit,APC,2840,2513,2350,1730,3009,2658,2375,1627,1381287
+DLR,859,PMLd,Pudding Mill Lane,Station entry / exit,APC,1311,1319,966,697,1298,1262,934,704,614843
+DLR,890,ROAd,Royal Albert,Station entry / exit,APC,1541,1411,1315,1223,1694,1676,1483,1131,798208
+DLR,886,ROVd,Royal Victoria,Station entry / exit,APC,4463,4908,5851,4020,3746,4441,5130,3487,2286632
+DLR,860,SHAd,Shadwell DLR,Station entry / exit,APC,9971,10200,7812,5135,9592,9838,7622,4992,4667783
+DLR,861,SOQd,South Quay,Station entry / exit,APC,5429,5396,3675,2626,5426,5198,3472,2480,2497386
+DLR,889,STLd,Star Lane,Station entry / exit,APC,2042,2001,1253,1067,2159,2169,1322,1139,970623
+DLR,719,SFDu,Stratford,DLR boarding / alighting,APC,20654,21735,21501,14128,18554,19540,18697,12293,9977028
+DLR,749,SHSd,Stratford High Street,Station entry / exit,APC,1854,1851,1381,1042,1890,1859,1380,1085,888438
+DLR,504,STId,Stratford International DLR,Station entry / exit,APC,5609,5856,5079,3662,4810,5257,4600,3488,2623668
+DLR,864,TOGd,Tower Gateway,Station entry / exit,APC,4508,4332,4241,2822,5203,5131,4948,3392,2401001
+DLR,757,WHMu,West Ham,DLR boarding / alighting,APC,4523,4638,3326,2497,3863,3948,3075,2188,2005602
+DLR,866,WIQd,West India Quay,Station entry / exit,APC,2308,3184,3157,2188,2244,3134,3197,2217,1329826
+DLR,559,WSId,West Silvertown,Station entry / exit,APC,3127,3022,2564,1818,3123,3053,2623,1873,1505609
+DLR,865,WESd,Westferry,Station entry / exit,APC,6290,6430,5284,3644,6275,6318,5175,3797,3049242
+DLR,573,WOAd,Woolwich Arsenal,Station entry / exit,APC,17771,18470,14940,10140,17334,17119,13856,10366,8491604
+EZL,3000,AMLr,Acton Main Line,Station entry / exit,Scaled,759,788,611,335,651,656,532,311,316257
+EZL,6872,BREr,Brentwood,Station entry / exit,Gateline,3454,3254,2102,1146,3173,2953,1953,1104,1390728
+EZL,3176,BNMr,Burnham,Station entry / exit,Manual Count,2111,2054,1322,896,2045,2074,1186,933,894325
+EZL,6874,CTHr,Chadwell Heath,Station entry / exit,Gateline,5642,5577,3947,2530,5378,5124,3543,2432,2396450
+EZL,560,EBYu,Ealing Broadway,TfL Rail boarding / alighting,Scaled,2791,2809,2435,1650,3221,3077,2616,1869,1372461
+EZL,6876,FOGr,Forest Gate,Station entry / exit,Gateline,5708,5858,4368,2954,5730,5532,4067,2973,2548489
+EZL,6877,GDPr,Gidea Park,Station entry / exit,Gateline,3837,3508,2419,1322,3488,3075,2061,1349,1533725
+EZL,6878,GMYr,Goodmayes,Station entry / exit,Gateline,5049,4920,3400,2214,4884,4664,3122,2135,2145176
+EZL,3191,HANr,Hanwell,Station entry / exit,Manual Count,1462,1369,1051,500,1202,1183,861,553,576380
+EZL,6879,HROr,Harold Wood,Station entry / exit,Gateline,4313,4145,2613,1452,4116,3844,2312,1305,1760138
+EZL,3186,HAYr,Hayes & Harlington,TfL Rail boarding / alighting,Scaled,3891,3875,3090,2041,3406,3038,2451,1774,1620176
+EZL,7091,HAFr,Heathrow Terminal 4 EL,,,0,0,0,0,0,0,0,0,0
+EZL,9846,HWVr,Heathrow Terminal 5 EL,TfL Rail boarding / alighting,Loadweigh,236,286,1364,1503,129,136,1365,1213,260928
+EZL,7090,HXXr,Heathrow Terminals 2 & 3 EL,TfL Rail boarding / alighting,Scaled,1507,1607,1431,1650,1343,1520,1302,1378,723162
+EZL,6881,IFDr,Ilford,Station entry / exit,Gateline,8956,8789,7381,5000,9271,8952,7199,4982,4106402
+EZL,3170,IVRr,Iver,Station entry / exit,Manual Count,436,441,263,181,405,423,265,176,182117
+EZL,3171,LNYr,Langley,Station entry / exit,Manual Count,1355,1294,924,650,1233,1255,839,551,565434
+EZL,6965,LSTr,Liverpool Street NR,TfL Rail boarding / alighting,Loadweigh,21997,20065,12672,6516,26683,25598,18686,9362,10251278
+EZL,3147,MAIr,Maidenhead,TfL Rail boarding / alighting,Manual Count,4352,3517,3378,2538,4603,3954,3280,2636,1964707
+EZL,6883,MNPr,Manor Park,Station entry / exit,Gateline,4036,4084,3106,2099,3964,3801,2834,2055,1781334
+EZL,6970,MYLr,Maryland,Station entry / exit,Gateline,3092,3211,2317,1497,2862,2766,1879,1450,1316546
+EZL,3087,PADr,Paddington NR,TfL Rail boarding / alighting,Loadweigh,17232,14600,19075,13326,17576,17666,21488,13468,8513238
+EZL,3149,RDGr,Reading,TfL Rail boarding / alighting,Loadweigh,3069,2990,2175,1530,3714,3888,3397,2212,1544095
+EZL,6886,RMFr,Romford,TfL Rail boarding / alighting,Scaled,11539,11760,9278,5828,13002,13069,10080,6310,5506235
+EZL,6893,SVKr,Seven Kings,TfL Rail boarding / alighting,Scaled,4883,4792,3456,2289,4493,4236,3014,2136,2046889
+EZL,6888,SNFr,Shenfield,TfL Rail boarding / alighting,Loadweigh,2924,2951,2018,1065,3933,3967,2757,1726,1493660
+EZL,3172,SLOr,Slough,TfL Rail boarding / alighting,Manual Count,4555,5190,3430,3553,4425,5402,3395,4020,2170889
+EZL,3187,STLr,Southall,Station entry / exit,Gateline,5246,5109,4170,2808,5067,4765,3711,2550,2294079
+EZL,719,SFDu,Stratford,TfL Rail boarding / alighting,Scaled,26355,27528,30133,19926,27359,29448,30003,19397,13233567
+EZL,3151,TAPr,Taplow,Station entry / exit,Manual Count,600,563,557,319,553,542,545,349,266945
+EZL,3155,TWYr,Twyford,TfL Rail boarding / alighting,Manual Count,1801,1912,1646,983,1798,1904,1640,1023,837725
+EZL,3174,WDTr,West Drayton,Station entry / exit,Gateline,3272,3247,2652,1519,2876,2708,2095,1390,1361605
+EZL,3188,WEAr,West Ealing,TfL Rail boarding / alighting,Scaled,2052,2059,1710,805,2113,1952,1437,865,908453
+TRM,9441,ADVt,Addington Village,Trams boarding / alighting,APC,1245,1245,892,503,1134,1134,807,489,593587
+TRM,9440,ADSt,Addiscombe,Trams boarding / alighting,APC,1919,1919,1711,1049,1552,1552,1338,897,909511
+TRM,9442,AMPt,Ampere Way,Trams boarding / alighting,APC,1649,1649,2299,1509,1801,1801,2541,1596,1025273
+TRM,9443,ARNt,Arena,Trams boarding / alighting,APC,1490,1490,1326,760,1227,1227,1096,710,711181
+TRM,9444,AVRt,Avenue Road,Trams boarding / alighting,APC,178,178,162,101,103,103,119,66,75180
+TRM,9445,BCJt,Beckenham Junction Trams,Trams boarding / alighting,APC,1432,1432,1318,908,2090,2090,2127,1415,951355
+TRM,9446,BCRt,Beckenham Road,Trams boarding / alighting,APC,462,462,383,211,448,448,383,250,235025
+TRM,9449,BDLt,Beddington Lane,Trams boarding / alighting,APC,374,374,264,123,413,413,252,151,192204
+TRM,9450,BGWt,Belgrave Walk,Trams boarding / alighting,APC,786,786,523,358,837,837,545,356,402624
+TRM,9454,BKBt,Birkbeck Trams,Trams boarding / alighting,APC,372,372,353,205,288,288,277,153,174519
+TRM,9459,BHLt,Blackhorse Lane,Trams boarding / alighting,APC,1175,1175,957,671,940,940,753,557,549911
+TRM,9488,TWRt,Centrale,Trams boarding / alighting,APC,1002,1002,870,568,1470,1470,1659,950,667607
+TRM,9460,CSTt,Church Street,Trams boarding / alighting,APC,3014,3014,2833,1800,1839,1839,1657,1070,1287204
+TRM,9464,COOt,Coombe Lane,Trams boarding / alighting,APC,278,278,184,95,262,262,167,119,132736
+TRM,9468,DDRt,Dundonald Road,Trams boarding / alighting,APC,516,516,291,216,602,602,417,278,276238
+TRM,9470,ECRt,East Croydon Trams,Trams boarding / alighting,APC,9660,9660,8644,5831,9164,9164,7957,4980,4946699
+TRM,9471,ELMt,Elmers End Trams,Trams boarding / alighting,APC,1077,1077,1011,636,1026,1026,958,668,561146
+TRM,9472,FLWt,Fieldway,Trams boarding / alighting,APC,1024,1024,812,539,988,988,740,547,516819
+TRM,9473,GSTt,George Street,Trams boarding / alighting,APC,2192,2192,2064,1279,3305,3305,3407,1862,1469273
+TRM,9474,GVHt,Gravel Hill,Trams boarding / alighting,APC,617,617,322,182,636,636,286,178,294148
+TRM,9475,HRDt,Harrington Road,Trams boarding / alighting,APC,467,467,456,272,307,307,284,197,206593
+TRM,9476,KHDt,King Henry's Drive,Trams boarding / alighting,APC,534,534,433,290,755,755,618,432,334465
+TRM,9477,LEBt,Lebanon Road,Trams boarding / alighting,APC,1221,1221,1165,732,1183,1183,1072,729,639725
+TRM,9478,LPKt,Lloyd Park,Trams boarding / alighting,APC,830,830,679,474,780,780,666,471,420737
+TRM,9479,MPKt,Merton Park,Trams boarding / alighting,APC,715,715,504,303,638,638,410,268,335768
+TRM,9480,MTMt,Mitcham,Trams boarding / alighting,APC,1499,1499,1211,798,1773,1773,1321,891,837465
+TRM,9481,MTJt,Mitcham Junction Trams,Trams boarding / alighting,APC,1495,1495,1183,740,1677,1677,1286,802,808809
+TRM,9482,MRDt,Morden Road,Trams boarding / alighting,APC,1072,1072,737,464,1062,1062,704,440,529641
+TRM,9484,NADt,New Addington,Trams boarding / alighting,APC,1673,1673,1229,886,1880,1880,1470,1027,910692
+TRM,9485,PHLt,Phipps Bridge,Trams boarding / alighting,APC,993,993,798,608,1089,1089,815,614,538962
+TRM,9486,RVCt,Reeves Corner,Trams boarding / alighting,APC,171,171,189,124,980,980,1047,602,314093
+TRM,9487,SANt,Sandilands,Trams boarding / alighting,APC,2575,2575,2081,1246,2392,2392,1796,1205,1268297
+TRM,9491,TPLt,Therapia Lane,Trams boarding / alighting,APC,1817,1817,1340,868,1989,1989,1449,929,961144
+TRM,9497,WDMt,Waddon Marsh,Trams boarding / alighting,APC,1249,1249,1351,882,1404,1404,1425,941,726893
+TRM,9498,WPKt,Wandle Park,Trams boarding / alighting,APC,1422,1422,1454,932,1538,1538,1509,1065,804251
+TRM,9499,WLRt,Wellesley Road,Trams boarding / alighting,APC,1150,1150,1029,665,333,333,267,184,389008
+TRM,8776,WCRt,West Croydon Trams,Trams boarding / alighting,APC,2614,2614,2420,1695,3104,3104,2675,1829,1514414
+TRM,8777,WMBt,Wimbledon Trams,Trams boarding / alighting,APC,3862,3862,3155,1905,3259,3259,2956,1680,1843892
+TRM,8779,WDSt,Woodside,Trams boarding / alighting,APC,1088,1088,805,541,881,881,646,471,500843
