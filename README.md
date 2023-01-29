@@ -3,13 +3,15 @@
 
 ## File Descriptions <a name="files"></a>
 
-`data/AC2021_AnnualisedEntryExit.xlsx` is taken straight from the [TfL website]( http://crowding.data.tfl.gov.uk/Annual%20Station%20Counts/2021/AC2021_AnnualisedEntryExit.xlsx). The first sheet in the file explains the contents: "The station entry / exit counts in this file represent the entry / exit or boarding / alighting count at each station on a typical weekday (Monday-Thursday), Friday, Saturday or Sunday, and annualised to an annual entry / exit total."
+`data/AC2021_AnnualisedEntryExit.xlsx` is taken straight from the [TfL website]( http://crowding.data.tfl.gov.uk/Annual%20Station%20Counts/2021/AC2021_AnnualisedEntryExit.xlsx).   
+The first sheet in the file explains the contents: "The station entry / exit counts in this file represent the entry / exit or boarding / alighting count at each station on a typical weekday (Monday-Thursday), Friday, Saturday or Sunday, and annualised to an annual entry / exit total."
 
-In the YouTube videos, we (1) perform the initial cleaning in Excel (2) save the file as a CSV file, and (3) load the CSV file using pandas.
-In `Load_Excel_Data_In_Pandas.ipynb`, we avoid the use of MS Excel altogether and do all the initial steps in Python using the openpyxl library. 
-
-`1 Data-Cleaning.ipynb`   
+`1 Data-Cleaning.ipynb`     
 This is the Jupyter notebook we use in the YouTube videos for data cleaning.
+
+`Load_Excel_Data_In_Pandas.ipynb`  
+In the YouTube videos, we (1) perform the initial cleaning in Excel (2) save the file as a CSV file, and (3) load the CSV file using pandas.
+In this notebook, we avoid the use of MS Excel altogether and do all the initial steps in Python using the openpyxl library. 
 
 `Webscraping_Demonstration_pandas_read_html.ipynb`   
 This notebook demonstrates the simplest method of getting data that is in the form of tables on web pages. 
