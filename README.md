@@ -14,5 +14,14 @@ This is the Jupyter notebook we use in the YouTube videos for data cleaning.
 In the YouTube videos, we (1) perform the initial cleaning in Excel (2) save the file as a CSV file, and (3) load the CSV file using pandas.
 In this notebook, we avoid the use of MS Excel altogether and do all the initial steps in Python using the openpyxl library. 
 
+Although I do a walkthrough of the code in the notebook, it turns out to just be 5 lines of code:
+```
+import pandas as pd
+df = pd.read_excel('AC2021_AnnualisedEntryExit.xlsx', sheet_name="Annualised", skiprows = 5, header = [0,1])
+df.columns = [' '.join(col).strip() for col in df.columns.values]
+df.columns = df.columns.str.replace('Unnamed: \d+_level_0 ', '', regex=True)
+df[df.columns[6:14]] = df[df.columns[6:14]].astype('int32') 
+```
+
 `Webscraping_Demonstration_pandas_read_html.ipynb`   
 This notebook demonstrates the simplest method of getting data that is in the form of tables on web pages. 
