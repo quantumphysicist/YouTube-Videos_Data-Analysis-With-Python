@@ -15,7 +15,7 @@ This notebook on performing a linear regression should make sense when used in t
 Linear Regression [Part 1](https://www.youtube.com/watch?v=A8L_6OJ91V8) & [Part 2](https://www.youtube.com/watch?v=q-LYqO2LarE&t=0s)
 
 `Load_Excel_Data_In_Pandas.ipynb`  
-In the YouTube videos, we (1) perform the initial cleaning in Excel (2) save the file as a CSV file, and (3) load the CSV file using pandas.
+In the YouTube videos, we (1) perform the initial cleaning in Excel, (2) save the file as a CSV file, and (3) load the CSV file using pandas.
 In this notebook, we avoid the use of MS Excel altogether and do all the initial steps in Python using the openpyxl library. 
 
 Although I do a slow walkthrough of the code in the notebook, it turns out to just be 5 lines of code:
